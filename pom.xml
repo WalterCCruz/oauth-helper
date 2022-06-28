@@ -15,6 +15,7 @@
     <description>oauth-helper</description>
     <properties>
         <java.version>11</java.version>
+        <sonar.host.url>http://127.0.0.1:9000</sonar.host.url>
     </properties>
 
     <dependencyManagement>
